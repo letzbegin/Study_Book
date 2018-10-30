@@ -2,7 +2,7 @@
 
 
 ### Java
-1. [JVM구조에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/edit/master/java/jvm/reaeme.md)
+1. [JVM구조에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/edit/master/java/jvm)
 2. GC처리 방법에 대해 설명하시오.
 3. HashMap vs HashTable vs ConcurrentHashMap의 차이를 설명하시오.
 4. 접근제어자에 대해 설명하시오.
