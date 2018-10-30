@@ -11,7 +11,7 @@
 7. try-with-resources에 대해 설명하시오.
 8. Synchronize에 대해 설명하시오.
 9. Synchronize를 하기 위한 방법은 무엇이 있나요?
-10. static은 메모리 구조 중 어디에 올라가나요?
+10. [static은 메모리 구조 중 어디에 올라가나요?](https://github.com/letzbegin/Study_Book/edit/master/java/jvm)
 11. 컬렉션 프레임워크에 대해 설명하시오.
 12. 제네릭에 대해 설명해주시고, 왜 쓰는지 어디세 써 봤는지 알려주세요.
 12. Vector와 List 차이에 대해 설명하시오.
