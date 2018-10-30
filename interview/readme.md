@@ -18,7 +18,7 @@
 13. 오버로딩과 오버라이딩의 차이는?
 14. CheckedException과 UnCheckedException의 차이를 설명하시오.
 15. OOP란 무엇인가요?
-16. final / finally / finalize 의 차이를 설명하시오.
+16. [final / finally / finalize 의 차이를 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/final)
 17. new String()과 ""의 차이에 대해 설명해주세요.
 18. 스프링 IOC가 무엇인가요?
 19. OOP와 AOP에 대한 차이를 설명해주세요.
