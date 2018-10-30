@@ -5,7 +5,7 @@
 1. [JVM구조에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/edit/master/java/jvm)
 2. GC처리 방법에 대해 설명하시오.
 3. [HashMap vs HashTable vs ConcurrentHashMap의 차이를 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/HashMap%20vs%20HashTable%20vs%20ConcurrentHashMap)
-4. 접근제어자에 대해 설명하시오.
+4. [접근제어자에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/Access%20Modifier)
 5. interface와 abstract의 차이를 설명하시오.
 6. StringBuilder와 StringBuffer의 차이에 대해 설명하시오.
 7. try-with-resources에 대해 설명하시오.
@@ -13,7 +13,7 @@
 9. Synchronize를 하기 위한 방법은 무엇이 있나요?
 10. static은 메모리 구조 중 어디에 올라가나요?
 11. 컬렉션 프레임워크에 대해 설명하시오.
-12. 제네릭에 대해 설명해주시고, 왜 쓰는지 어디 써 봤는지 알려주세요.
+12. 제네릭에 대해 설명해주시고, 왜 쓰는지 어디세 써 봤는지 알려주세요.
 12. Vector와 List 차이에 대해 설명하시오.
 13. 오버로딩과 오버라이딩의 차이는?
 14. CheckedException과 UnCheckedException의 차이를 설명하시오.
