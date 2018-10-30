@@ -7,7 +7,7 @@
 3. [HashMap vs HashTable vs ConcurrentHashMap의 차이를 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/HashMap%20vs%20HashTable%20vs%20ConcurrentHashMap)
 4. [접근제어자에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/Access%20Modifier)
 5. interface와 abstract의 차이를 설명하시오.
-6. StringBuilder와 StringBuffer의 차이에 대해 설명하시오.
+6. [StringBuilder와 StringBuffer의 차이에 대해 설명하시오.](https://github.com/letzbegin/Study_Book/tree/master/java/StringBuilder%20VS%20StringBuffer)
 7. try-with-resources에 대해 설명하시오.
 8. Synchronize에 대해 설명하시오.
 9. Synchronize를 하기 위한 방법은 무엇이 있나요?
